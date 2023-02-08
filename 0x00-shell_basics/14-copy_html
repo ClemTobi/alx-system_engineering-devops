@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -u path-of-child-folder/* find -name *.html* path-of-parent-folder
+cp -ru path-of-child-folder/* find -name *.html* path-of-parent-folder
